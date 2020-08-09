@@ -1,0 +1,60 @@
+p, h1, h2 {
+	color: green;
+	text-align: center;
+	}
+
+h1 {
+	text-shadow: 1px 1px #000000;
+}
+
+.font_1 {
+	background-color: green;
+	color: white;
+	font-size: medium;
+}
+
+.font_2 {
+	background-color: yellow;
+	color: black;
+	font-size: medium;
+}
+/* This is how we write comments in CSS */
+.font_3 {
+	background-color: green;
+	color: white;
+	font-size: medium;
+}
+	
+.font_4 {
+	background-color: yellow;
+	color: black;
+	font-size: medium;
+	font-weight: bold;
+}
+
+table {
+	border: 1px solid silver;
+}
+
+td:hover {
+	background-color: yellow;
+	color: green;
+}
+
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
+
+tr, td {
+	background-color: darkgreen;
+	color: white;
+}
+
+ol {
+	list-style-type: upper-roman;
+}
+
+ul {
+	list-style-type: square;
+}
